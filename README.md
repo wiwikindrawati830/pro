@@ -2,7 +2,7 @@
 
 https://m.facebook.com/Rizky.Rasata
 
-PERINTAH/COMMAND
+<b>PERINTAH/COMMAND
 
 • pkg update && upgrade
 
