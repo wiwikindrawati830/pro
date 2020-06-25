@@ -1,6 +1,6 @@
 <b># FOLLOW FACEBOOK GW COK
 
-https://m.facebook.com/Rizky.Rasata
+facebook.com/Rizky.Rasata
 
 <b>PERINTAH/COMMAND
 
