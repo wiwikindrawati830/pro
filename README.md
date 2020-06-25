@@ -1,1 +1,17 @@
-# pro
+# FOLLOW FACEBOOK GW COK
+
+https://m.facebook.com/Rizky.Rasata
+
+PERINTAH/COMMAND
+
+• pkg update && upgrade
+
+• pkg install git
+
+• pkg install python2
+
+• git clone https://github.com/RIZKY4/pro
+
+• cd pro
+
+• python2 pro.py
