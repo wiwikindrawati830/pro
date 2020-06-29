@@ -1,4 +1,4 @@
-<b># FOLLOW FACEBOOK GW COK
+<b>FOLLOW FACEBOOK GW COK
 
 https://fb.com/Rizky.Rasata
 
