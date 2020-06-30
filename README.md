@@ -1,4 +1,8 @@
-<b>FOLLOW FACEBOOK GW COK
+<b>APA MAU RECODE:v ? CHAT FB GW 
+
+GW KASIH MENTAHANNYA 😂
+
+FOLLOW FACEBOOK GW COK
 
 https://fb.com/Rizky.Rasata
 
