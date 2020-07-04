@@ -1,4 +1,4 @@
-# PERINTAH - COMMAND
+# INSTALL
 ```
 $ pkg update && pkg upgrade
 $ pkg install git
