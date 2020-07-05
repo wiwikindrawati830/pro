@@ -14,6 +14,4 @@ $ cd pro
 
 $ python2 pro.py
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+#0366d6, $bg-blue
