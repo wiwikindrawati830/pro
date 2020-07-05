@@ -1,6 +1,6 @@
 # INSTALL
 
-`#ffffff` pkg update && pkg upgrade
+`#00ff00` pkg update && pkg upgrade
 
 $ pkg install git
 
